@@ -4,8 +4,8 @@
             {
                 "id": "1",
                 "avatar": "https://d3bzyjrsc4233l.cloudfront.net/cache/98/39/983980592fb938e32be90ae84a042afd.jpg",
-                "full_name": "Иван Иванович",
-                "nickname": "ii",
+                "name": "Иван Иванович",
+                "username": "ii",
                 "department": "Android",
                 "position": "Tech Lead",
                 "phone": "9113213133",
@@ -13,13 +13,13 @@
                 "socials": [
                     {
                         "type": "skype",
-                        "nickname": "ii",
-                        "handle": "icon_skype"
+                        "username": "ii",
+                        "name": "Иван Иванович"
                     },
                     {
-                        "type": "inst",
-                        "nickname": "ii",
-                        "handle": "icon_instagram"
+                        "type": "instagram",
+                        "username": "ii",
+                        "name": "Иван Иванович"
                     }
                 ],
                 "hire_date": "2001-02-14"
@@ -27,8 +27,8 @@
             {
                 "id": "2",
                 "avatar": "https://d3bzyjrsc4233l.cloudfront.net/cache/98/39/983980592fb938e32be90ae84a042afd.jpg",
-                "full_name": "Сергей Сергеевич",
-                "nickname": "ss",
+                "name": "Сергей Сергеевич",
+                "username": "ss",
                 "department": "iOS",
                 "position": "Tech Lead",
                 "phone": "9113213133",
@@ -36,13 +36,13 @@
                 "socials": [
                     {
                         "type": "skype",
-                        "nickname": "ss",
-                        "handle": "icon_skype"
+                        "username": "ss",
+                        "name": "Сергей Сергеевич"
                     },
                     {
-                        "type": "inst",
-                        "nickname": "ss",
-                        "handle": "icon_instagram"
+                        "type": "instagram",
+                        "username": "ss",
+                        "name": "Сергей Сергеевич"
                     }
                 ],
                 "hire_date": "2010-12-24"
@@ -50,8 +50,8 @@
             {
                 "id": "3",
                 "avatar": "https://d3bzyjrsc4233l.cloudfront.net/cache/98/39/983980592fb938e32be90ae84a042afd.jpg",
-                "full_name": "Мария Денисламовна",
-                "nickname": "md",
+                "name": "Мария Денисламовна",
+                "username": "md",
                 "department": "Sales",
                 "position": "Sales Lead",
                 "phone": "9113213133",
@@ -59,13 +59,13 @@
                 "socials": [
                     {
                         "type": "skype",
-                        "nickname": "md",
-                        "handle": "icon_skype"
+                        "username": "md",
+                        "name": "Мария Денисламовна"
                     },
                     {
-                        "type": "inst",
-                        "nickname": "md",
-                        "handle": "icon_instagram"
+                        "type": "instagram",
+                        "username": "md",
+                        "name": "Мария Денисламовна"
                     }
                 ],
                 "hire_date": "2013-01-01"
@@ -73,8 +73,8 @@
             {
                 "id": "4",
                 "avatar": "https://d3bzyjrsc4233l.cloudfront.net/cache/98/39/983980592fb938e32be90ae84a042afd.jpg",
-                "full_name": "Катарина Андреевна",
-                "nickname": "ka",
+                "name": "Катарина Андреевна",
+                "username": "ka",
                 "department": "Head",
                 "position": "Lead of Leads",
                 "phone": "9113213133",
@@ -82,13 +82,13 @@
                 "socials": [
                     {
                         "type": "skype",
-                        "nickname": "ka",
-                        "handle": "icon_skype"
+                        "username": "ka",
+                        "name": "Катарина Андреевна"
                     },
                     {
-                        "type": "inst",
-                        "nickname": "ka",
-                        "handle": "icon_instagram"
+                        "type": "instagram",
+                        "username": "ka",
+                        "name": "Катарина Андреевна"
                     }
                 ],
                 "hire_date": "2016-05-21"
@@ -96,8 +96,8 @@
             {
                 "id": "5",
                 "avatar": "https://d3bzyjrsc4233l.cloudfront.net/cache/98/39/983980592fb938e32be90ae84a042afd.jpg",
-                "full_name": "Марина Резоновна",
-                "nickname": "mr",
+                "name": "Марина Резоновна",
+                "username": "mr",
                 "department": "Managment",
                 "position": "Head",
                 "phone": "9113213133",
@@ -105,13 +105,13 @@
                 "socials": [
                     {
                         "type": "skype",
-                        "nickname": "mr",
-                        "handle": "icon_skype"
+                        "username": "mr",
+                        "name": "Марина Резоновна"
                     },
                     {
-                        "type": "inst",
-                        "nickname": "mr",
-                        "handle": "icon_instagram"
+                        "type": "instagram",
+                        "username": "mr",
+                        "name": "Марина Резоновна"
                     }
                 ],
                 "hire_date": "2018-01-04"
@@ -119,8 +119,8 @@
             {
                 "id": "6",
                 "avatar": "https://d3bzyjrsc4233l.cloudfront.net/cache/98/39/983980592fb938e32be90ae84a042afd.jpg",
-                "full_name": "Потап Потапович",
-                "nickname": "pp",
+                "name": "Потап Потапович",
+                "username": "pp",
                 "department": "Android",
                 "position": "Team Lead",
                 "phone": "9113213133",
@@ -128,13 +128,13 @@
                 "socials": [
                     {
                         "type": "skype",
-                        "nickname": "pp",
-                        "handle": "icon_skype"
+                        "username": "pp",
+                        "name": "Потап Потапович"
                     },
                     {
-                        "type": "inst",
-                        "nickname": "pp",
-                        "handle": "icon_instagram"
+                        "type": "instagram",
+                        "username": "pp",
+                        "name": "Потап Потапович"
                     }
                 ],
                 "hire_date": "2019-08-01"

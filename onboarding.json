@@ -15,7 +15,7 @@
                     ]
                 }
             ],
-            "butons": [
+            "buttons": [
                 {
                     "id": "b2e63a88-e6c1-11ea-adc1-0242ac120002",
                     "text": "Продолжить",
@@ -24,7 +24,7 @@
                 {
                     "id": "c29c3a72-e6c1-11ea-adc1-0242ac120002",
                     "text": "Пропустить",
-                    "transition": "GetEvent"
+                    "transition": "get-event"
                 }
             ]
         },
@@ -47,7 +47,7 @@
                     ]
                 }
             ],
-            "butons": [
+            "buttons": [
                 {
                     "id": "e8d55ea8-e6c1-11ea-adc1-0242ac120002",
                     "text": "Далее",
@@ -76,10 +76,10 @@
                     }
                 ]
             ],
-            "butons": [
+            "buttons": [
                 {
                     "id": "Закончить",
-                    "transition": "GetEvent"
+                    "transition": "get-event"
                 }
             ]
         }

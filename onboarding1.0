@@ -1,0 +1,87 @@
+{
+    "onboarding": [
+        {
+            "id": "a23af822-e6c1-11ea-adc1-0242ac120002",
+            "character": "Верховный советник",
+            "replies": [
+                {
+                    "id": "ad31f816-e6c1-11ea-adc1-0242ac120002",
+                    "type": "text",
+                    "random": [
+                        {
+                            "text": "Привет! Я тебе расскажу, что ты можешь тут делать и как играть. Продолжим?",
+                            "tts": "<prosody>Привет! Я тебе расскажу,</prosody> что ты можешь тут делать и как играть. Продолжим?"
+                        }
+                    ]
+                }
+            ],
+            "buttons": [
+                {
+                    "id": "b2e63a88-e6c1-11ea-adc1-0242ac120002",
+                    "text": "Продолжить",
+                    "transition": "cd0c3c14-e6c1-11ea-adc1-0242ac120002"
+                },
+                {
+                    "id": "c29c3a72-e6c1-11ea-adc1-0242ac120002",
+                    "text": "Пропустить",
+                    "transition": "get-event"
+                }
+            ]
+        },
+        {
+            "id": "cd0c3c14-e6c1-11ea-adc1-0242ac120002",
+            "character": "Историк",
+            "replies": [
+                {
+                    "id": "db0f26c8-e6c1-11ea-adc1-0242ac120002",
+                    "type": "image",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2017/07/21/11/39/dahlia-2525513_1280.jpg"
+                },
+                {
+                    "id": "e366da50-e6c1-11ea-adc1-0242ac120002",
+                    "type": "text",
+                    "random": [
+                        {
+                            "text": "Сейчас я расскажу тебе, что нужно делать!"
+                        }
+                    ]
+                }
+            ],
+            "buttons": [
+                {
+                    "id": "e8d55ea8-e6c1-11ea-adc1-0242ac120002",
+                    "text": "Далее",
+                    "transition": "f1ece538-e6c1-11ea-adc1-0242ac120002"
+                }
+            ]
+        },
+        {
+            "id": "f1ece538-e6c1-11ea-adc1-0242ac120002",
+            "character": "Историк",
+            "replies": [
+                [
+                    {
+                        "id": "fa7134d4-e6c1-11ea-adc1-0242ac120002",
+                        "type": "audio",
+                        "audioUrl": "https://firebasestorage.googleapis.com/v0/b/finbo-sber.appspot.com/o/Sounds%2FWind-Mark_DiAngelo-1940285615.mp3?alt=media&token=19223db6-6077-4ffb-b199-ecd1a473b53d"
+                    },
+                    {
+                        "id": "0205456e-e6c2-11ea-adc1-0242ac120002",
+                        "type": "text",
+                        "random": [
+                            {
+                                "text": "Привет! Мы на Острове Доверия, говорили про монеты."
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "buttons": [
+                {
+                    "id": "Закончить",
+                    "transition": "get-event"
+                }
+            ]
+        }
+    ]
+}
